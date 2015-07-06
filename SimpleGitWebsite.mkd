@@ -33,7 +33,7 @@ git push myorigin gh-pages
 
 * You need to go into the `.html` file and add links to the `mkd` files, like this:
 
-```
+```html
 <ul>
 <li>Table of contents
 <ul>
