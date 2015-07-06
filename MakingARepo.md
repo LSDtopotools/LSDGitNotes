@@ -5,7 +5,7 @@ layout: default
 
 
 Making a repo
-====================================
+-----------------------------
 
 This explains how to make a new repository. It won't be that detailed since you should look at [software carpentry](http://www.software-carpentry.org/v5/novice/git/) 
 or our [in-house lessons](http://www.geos.ed.ac.uk/~smudd/NMDM_Course/html/index.html) for more detail. 
