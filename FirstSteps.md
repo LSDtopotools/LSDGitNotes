@@ -1,3 +1,9 @@
+-----------------------------------
+Title: FirstSteps
+layout: default
+-----------------------------------
+
+
 First Steps with Git and cloning repositories
 ===============================================================
 
