@@ -18,8 +18,13 @@ However, the steps to make a new repository hosted on github are:
 * Now make a directory for the new repository on your computer. 
 * Go into that directory and `git init` the repo. Then `git add` some files (at first the `readme.md` is important to add). 
 * Then add the remote (githib will tell you the http address of it). This will result in a command like:
+
 ```git remote add origin https://github.com/LSDtopotools/FunkMonkeyScripts.git```
-* I don't know why this happens by my computer doesn't like an origin of `origin, so I use:
+
+* I don't know why this happens by my computer doesn't like an origin of `origin`, so I use:
+
 ```git remote add myorigin https://github.com/LSDtopotools/FunkMonkeyScripts.git```
+
 * Then push the changes:
+
 ```git push -u myorigin master```. If you called your origin something else you will have to use that name. 
