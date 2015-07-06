@@ -1,11 +1,10 @@
------------------------------------
+---
 title: FirstSteps
 layout: default
------------------------------------
-
+---
 
 First Steps with Git and cloning repositories
-===============================================================
+------------------------------------------------
 
 These are some brief notes on getting our repositories up and working on a new computer. 
 It assumes you have some familiarity with git. If not, go and read the [Software Carpentry](http://www.software-carpentry.org/v5/novice/git/) lessons on git. 
