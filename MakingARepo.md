@@ -1,5 +1,5 @@
 -----------------------------------
-Title: MakingARepo
+title: MakingARepo
 layout: default
 -----------------------------------
 

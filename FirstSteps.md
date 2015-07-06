@@ -1,5 +1,5 @@
 -----------------------------------
-Title: FirstSteps
+title: FirstSteps
 layout: default
 -----------------------------------
 
