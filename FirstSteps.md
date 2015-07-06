@@ -9,6 +9,12 @@ These notes are intended for developers of our code. If you are not a developer 
 
 * First, [clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository) one of the repositories. 
 * For example, if you want to clone this directory, you navigate to the folder where you want to put the code and type:
-'''$ git clone https://github.com/LSDtopotools/LSDGitNotes.git```
+```$ git clone https://github.com/LSDtopotools/LSDGitNotes.git```
 * In github, the address of the repo is usually on the right column of the webiste toward the bottom. 
 * The 'origin' of these files should be set after the cloning process, but if not you can reset them by [following these directions](https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes). 
+
+Some comments on how to operate so you don't irritate everyone else
+-----------------------------------------------------------------------
+
+* We should push as soon as possible after committing, mainly because this will reduce the possiblilty of conflicts, which are painfil to resolve. 
+
